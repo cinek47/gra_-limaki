@@ -1,0 +1,51 @@
+*{
+	background-color: darkgreen;
+	margin: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+	padding-left: 1px;
+	padding-right: 1px;
+}
+
+#but{
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+    width: 700px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+}
+
+
+button{
+    font-size: 30px;
+    width: 400px;
+    border: 2px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    background-color: green;
+    transition: 1s;
+}
+
+button:hover{
+    background-color: lightblue;
+}
+
+
+table{
+	margin: auto;
+	margin-top: 5vh;
+}
+
+h1{
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+
+img{
+	width:100px;
+}
